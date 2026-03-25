@@ -8,8 +8,7 @@
 ---
 
 ##  Technologies Used
-- Python 
-- NumPy
+- Python 
 - Pandas
 - Matplotlib
 - Scikit-learn
