@@ -8,9 +8,16 @@
 ---
 
 ##  Technologies Used
-- Python 
+- Python 
+
 - Pandas
 - Matplotlib
 - Scikit-learn
 
 ---
+
+## Models
+* Linear Regression
+* Logistic Regression
+* Decision Trees
+* Random Forest
